@@ -1,0 +1,6 @@
+/Users/rodrigosoriano/Dev/github/java/log-path/LogPath-service/src/main/java/com/logpath/app/service/BaseService.java
+/Users/rodrigosoriano/Dev/github/java/log-path/LogPath-service/src/main/java/com/logpath/app/service/api/ApiService.java
+/Users/rodrigosoriano/Dev/github/java/log-path/LogPath-service/src/main/java/com/logpath/app/service/dao/GraphEntityDAO.java
+/Users/rodrigosoriano/Dev/github/java/log-path/LogPath-service/src/main/java/com/logpath/app/service/api/IApiServiceLocal.java
+/Users/rodrigosoriano/Dev/github/java/log-path/LogPath-service/src/main/java/com/logpath/app/service/cache/CacheManagementService.java
+/Users/rodrigosoriano/Dev/github/java/log-path/LogPath-service/src/main/java/com/logpath/app/service/dao/IGraphEntityDAO.java

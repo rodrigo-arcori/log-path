@@ -1,0 +1,5 @@
+com/logpath/app/persistence/entity/EntityWrap.class
+com/logpath/app/persistence/entity/GraphEntity.class
+com/logpath/app/persistence/entity/GraphEntity$PersistenceState.class
+com/logpath/app/persistence/entity/RouteEntity.class
+com/logpath/app/persistence/cache/CachedGraph.class
